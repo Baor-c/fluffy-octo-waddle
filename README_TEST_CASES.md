@@ -79,4 +79,4 @@
 4. Kiểm tra ràng buộc foreign key khi xóa thể loại
 5. Test responsive design trên các thiết bị khác nhau
 6. Thêm loading indicator cho các thao tác AJAX
-7. Implement caching để cải thiện hiệu năng
+7. Implement caching để cải thiện hiệu a
